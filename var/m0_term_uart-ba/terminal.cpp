@@ -1,4 +1,4 @@
-// Wed Sep 16 02:26:06 UTC 2020 lumex-bb- // converse with STM32F407
+// Wed Sep 16 02:41:31 UTC 2020 lumex-bb- // converse with STM32F407
 
 // chvargu  kidari  nefalo  gelron  pibulatto
 
@@ -98,7 +98,7 @@ void setup() {
   }
 
   Serial.println ("terminal - based on the Forth-like interpreter\n");
-  Serial.println ("    16 SEP 2020     cc388e60943b-b01 ");
+  Serial.println ("    16 SEP 2020  02:44 UTC or later ..  cb3f915d6839-a01 ");
   SERIAL.begin(115200); // TX/RX pair
 }
 
